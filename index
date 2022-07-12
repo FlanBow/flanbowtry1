@@ -31,7 +31,7 @@ header{
 .nav-btn{
     flex: 3;
     display: flex;
-}
+    }
 
 .nav-links{
     flex: 2;
